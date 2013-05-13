@@ -3,7 +3,7 @@ Google-TTS-Library-For-iOS
 
 Google TTS For iOS will provide the capability to write Text-To-Speech iOS applications using Google TTS services.
 
-**Application Features:**
+**Library Features:**
 
 1. No limitation for characters where Google TTS only limited to 100 characters.
 2. This is English only for now.Spanish and Arabic are coming soon.
