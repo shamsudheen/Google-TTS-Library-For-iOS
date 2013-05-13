@@ -13,7 +13,7 @@ Google TTS For iOS will provide the capability to write Text-To-Speech iOS appli
 
 1.Clone git repository or download a ZIP archive (and unzip).
 
-2. Find the downloaded files , add `libGoogle_TTS_ByShamsu_Universal.a` & `Google_TTS_BySham.h`  into your project.
+2.Find the downloaded files , add `libGoogle_TTS_ByShamsu_Universal.a` & `Google_TTS_BySham.h`  into your project.
 
 3.Import  `"Google_TTS_BySham.h"` in to your class file. `#import "Google_TTS_BySham.h"`
 
