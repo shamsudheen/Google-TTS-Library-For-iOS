@@ -27,5 +27,5 @@ Google TTS For iOS will provide the capability to write Text-To-Speech iOS appli
 
 ~~~
  self.google_TTS_BySham = [[Google_TTS_BySham alloc] init];
- [self.google_TTS_BySham speak:@"This is a Google TTS for iOS By Sham"];
+ [self.google_TTS_BySham speak:@"This is a text to speech sample application By Sham"];
 ~~~
